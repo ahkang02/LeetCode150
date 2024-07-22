@@ -22,3 +22,27 @@ public class Solution {
         System.out.println(productExceptSelf(nums));
     }
 }
+
+/*
+
+Explanation:
+Initialize Result Array:
+Create an array result of the same length as nums to store the products.
+
+Outer Loop:
+Iterate over each element in the input array nums using index i.
+
+Inner Loop:
+For each element nums[i], calculate the product of all elements except nums[i]
+by iterating through the array with index j.
+
+    Skip the current index i (if (i != j)).
+
+    Multiply the current product by nums[j] for each j.
+
+Store Product:
+Assign the calculated product to result[i].
+
+Return Result:
+After the loops complete, return the result array.
+*/
