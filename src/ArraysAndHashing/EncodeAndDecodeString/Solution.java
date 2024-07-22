@@ -1,4 +1,4 @@
-package EncodeAndDecodeString;
+package ArraysAndHashing.EncodeAndDecodeString;
 
 import java.util.ArrayList;
 import java.util.List;

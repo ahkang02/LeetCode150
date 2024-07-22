@@ -1,4 +1,4 @@
-package GroupAnagram;
+package ArraysAndHashing.GroupAnagram;
 
 /*
 

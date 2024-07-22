@@ -1,4 +1,4 @@
-package DuplicateNumber;
+package ArraysAndHashing.DuplicateNumber;
 
 /*
 

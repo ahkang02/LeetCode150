@@ -1,4 +1,4 @@
-package TopKElementInList;
+package ArraysAndHashing.TopKElementInList;
 
 /*
 

@@ -1,4 +1,4 @@
-package ProductsOfArrayDiscludingSelf;
+package ArraysAndHashing.ProductsOfArrayDiscludingSelf;
 
 public class Solution {
     public static int[] productExceptSelf(int[] nums) {

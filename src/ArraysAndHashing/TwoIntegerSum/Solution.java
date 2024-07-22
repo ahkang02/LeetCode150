@@ -1,4 +1,4 @@
-package TwoIntegerSum;
+package ArraysAndHashing.TwoIntegerSum;
 
 /*
 

@@ -1,4 +1,4 @@
-package Anagram;
+package ArraysAndHashing.Anagram;
 
 /*
 Context:
